@@ -22,7 +22,7 @@ const streamURL = 'https://api.twitter.com/2/tweets/search/stream';
 
 const rules = [{
         'value': 'tesla',
-        'tag': 'dog pictures'
+        'tag': 'teslas'
     }
 ];
 
